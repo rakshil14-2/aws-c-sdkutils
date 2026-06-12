@@ -41,6 +41,7 @@ cmake --build aws-c-sdkutils/build --target install
 | manylinux2014 | x64, x86 |
 | openSUSE-leap | x64 |
 | rhel8 | x64 |
+| ubuntu-24.04 | x86 |
 | windows 11 | x64, x86 |
 
 ## Tier 2 — Supported (Not Tested in CI)
