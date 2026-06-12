@@ -35,6 +35,7 @@ cmake --build aws-c-sdkutils/build --target install
 
 | Platform | Architecture |
 |----------|--------------|
+| Fedora-34 | x64 |
 | manylinux2014 | x64, x86 |
 
 ## Tier 2 — Supported (Not Tested in CI)
